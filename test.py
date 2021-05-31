@@ -1,3 +1,4 @@
-numbers = [1,2,3,4,5]
-for item in numbers:
-    print(item)
+name = input("Please enter your name : ")
+birth_year = int(input("Please enter your birthyear : "))
+age = 2021-birth_year
+print("Hi, "+name+" you are "+str(age)+" years old now! ")
